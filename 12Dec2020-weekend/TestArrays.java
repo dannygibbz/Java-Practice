@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-// #C
+
 public class TestArrays
 {
     public static void main(String[] args)
